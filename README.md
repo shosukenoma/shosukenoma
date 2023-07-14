@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 
 ```yaml
 name: "Sho Noma"
-education: "Macalester College"
+position: "Frontend Web Developer"
+education: "B.A. in Computer Science"
+
+currently_learning: "Node.js"
+experience: [
+  "Intern - Backend Developer (Python, GraphQL, Azure)"
+]
 ```
 
 <h2> 🚀 &nbsp; Tools I Use</h2>
