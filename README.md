@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2> 🧑🏻‍💻 &nbsp; About Me </h2>
+
 ```yaml
 name: "Sho Noma"
 education: "Macalester College"
