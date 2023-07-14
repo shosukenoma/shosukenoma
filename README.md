@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2> About Me </h2>
 ```yaml
-* YOUR TEXT GOES HERE *
+<p>About me content</p>
 ```
 
 <h2> 🚀 &nbsp; Tools I Use</h2>
