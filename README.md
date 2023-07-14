@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text]([[http://url/to/img.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg")https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"](https://github.com/devicons/devicon/tree/v2.15.1/icons/html5/html5-original-wordmark.svg)https://github.com/devicons/devicon/tree/v2.15.1/icons/html5/html5-original-wordmark.svg)
+![alt text](https://github.com/devicons/devicon/tree/v2.15.1/icons/html5/html5-original-wordmark.svg)
