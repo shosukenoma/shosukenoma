@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **shosukenoma/shosukenoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> About Me </h2>
+```yaml
+* YOUR TEXT GOES HERE *
+```
 
 <h2> 🚀 &nbsp; Tools I Use</h2>
 <p align="left">
