@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> About Me </h2>
-<p>
 ```yaml
-* name: Sho Noma
-education: Macalester College *
+name: "Sho Noma"
+education: "Macalester College"
 ```
-</p>
 
 <h2> 🚀 &nbsp; Tools I Use</h2>
 <p align="left">
