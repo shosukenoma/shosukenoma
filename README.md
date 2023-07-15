@@ -37,6 +37,7 @@ experience: [
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="60" height="60"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python3" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="openai" width="60" height="60"/>
   <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/B/BioErrorLog/20230501/20230501140046.png" alt="langchain" width="60" height="60"/>
 </p>
 
