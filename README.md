@@ -26,9 +26,7 @@ currently_learning: "React.js"
 experience: [
   "Intern - Backend Developer (Python, GraphQL, Azure)"
 ]
-projects: [
-  ["Slack Note"](https://shosukenoma.github.io/slack-note-v2/)
-]
+projects: ["Slack Note"](https://shosukenoma.github.io/slack-note-v2/)
 ```
 
 <h2> 🚀 &nbsp; Tools I Use</h2>
