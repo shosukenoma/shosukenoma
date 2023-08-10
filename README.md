@@ -30,7 +30,8 @@ experience: [
 
 <h2>🚀 &nbsp; Projects</h2>
 <p align="left">
-  <a href="https://shosukenoma.github.io/slack-note-v2/" target="_blank">Slack Note: Your everyday workspace</a>
+  <a href="https://shosukenoma.github.io/slack-note-v2/" target="_blank">Slack Note</a>: Your everyday workspace
+  (Built using Vite and React.js)
 </p>
 
 
