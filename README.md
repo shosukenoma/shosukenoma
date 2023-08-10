@@ -28,13 +28,13 @@ experience: [
 ]
 ```
 
-<h2>Projects</h2>
+<h2>🚀 &nbsp; Projects</h2>
 <p align="left">
   <a href="https://shosukenoma.github.io/slack-note-v2/" target="_blank">Slack Note: Your everyday workspace</a>
 </p>
 
 
-<h2> 🚀 &nbsp; Tools I Use</h2>
+<h2>🛠️ &nbsp; Tools I Use</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="60" height="60"/>
