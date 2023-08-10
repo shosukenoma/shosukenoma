@@ -22,7 +22,7 @@ name: "Sho Noma"
 position: "Frontend Web Developer"
 education: "B.A. in Computer Science"
 
-currently_learning: "Node.js"
+currently_learning: "React.js"
 experience: [
   "Intern - Backend Developer (Python, GraphQL, Azure)"
 ]
