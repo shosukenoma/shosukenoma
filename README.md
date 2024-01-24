@@ -19,13 +19,10 @@ Here are some ideas to get you started:
 
 ```yaml
 name: "Sho Noma"
-position: "Frontend Web Developer"
+position: "Software Developer"
 education: "B.A. in Computer Science"
 
-currently_learning: "Node.js"
-experience: [
-  "Intern - Backend Developer (Python, GraphQL, Azure)"
-]
+currently_learning: "JavaScript"
 ```
 
 <h2>🚀 &nbsp; Projects</h2>
